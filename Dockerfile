@@ -9,6 +9,7 @@ RUN grep -v '^#' /etc/apt/sources.list \
                        gcc make \
                        strace lsof \
                        tcpdump tcpflow \
+                       netcat whois \
                        vim mc lftp \
                        sqlite3 redis-tools postgresql-client \
                        virtualenv python3-dev \
